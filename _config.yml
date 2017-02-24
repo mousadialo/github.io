@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Mosdilo
+email: mousdialo@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Self-taught computer scientist, but also have academic interests and experience in the field, and linguistics of foreign languages as well. I enjoy working in dynamic, social environments with others with varied interests. I'm a verbal thinker, and lifelong learning is my passion.
+
+My experiences range from building responsive high-performance applications and technical innovations to various software engineering task for financial services industry.
+
+As an enthusiast of Computer Science, i'm currently engaged in software research and development leveraging open source technologies.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://mosdilo.com" # the base hostname & protocol for your site
+twitter_username: frennzzy
+github_username:  mousdialo
+
+# Build settings
+markdown: mousdialo
